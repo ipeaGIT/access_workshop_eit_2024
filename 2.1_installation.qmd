@@ -30,6 +30,7 @@ pkgs <- c(
   'rJavaEnv',
   'ggplot2',
   'mapview',
+  'quantreg',
   'dplyr',
   'h3jsr',
   'sf'
